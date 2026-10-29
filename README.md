@@ -15,7 +15,6 @@ CodeGuard AI combines local static analysis with AI-powered code review through 
 
 # 🖥️ Application Preview
 
-Add screenshots of your application to the `images/` folder and update the filenames below when they are available.
 
 <table>
   <tr>
