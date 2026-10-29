@@ -20,24 +20,24 @@ Add screenshots of your application to the `images/` folder and update the filen
 <table>
   <tr>
     <td align="center">
-      <img src="images/Dashboard.png" width="400" alt="CodeGuard AI Dashboard">
+      <img src="images/Dashboard.PNG" width="400" alt="CodeGuard AI Dashboard">
       <br>
       <b>Dashboard</b>
     </td>
     <td align="center">
-      <img src="images/Scan Results.png" width="400" alt="Code scan results">
+      <img src="images/Scan Results.PNG" width="400" alt="Code scan results">
       <br>
       <b>Code Scan Results</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/AI Review.png" width="400" alt="AI code review">
+      <img src="images/AI Review.PNG" width="400" alt="AI code review">
       <br>
       <b>AI Code Review</b>
     </td>
     <td align="center">
-      <img src="images/About.png" width="400" alt="About CodeGuard AI">
+      <img src="images/About.PNG" width="400" alt="About CodeGuard AI">
       <br>
       <b>About</b>
     </td>
