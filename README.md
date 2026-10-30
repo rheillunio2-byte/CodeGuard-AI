@@ -298,4 +298,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on contributing 
 
 # 📄 License
 
-The project's license should be specified in the repository's `LICENSE` file. Add the appropriate license details here once the project license has been selected.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/rheillunio2-byte/CodeGuard-AI?tab=MIT-1-ov-file) file for more details.
